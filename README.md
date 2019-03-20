@@ -1,1 +1,2 @@
 # xmind2testcase2nd
+以开源的xmind2testcase为基础，结合公司具体的禅道配置进行适配
